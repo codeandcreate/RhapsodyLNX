@@ -1,0 +1,28 @@
+# Rhapsodized-Micro (Modified Port)
+#   - Pekwm Port by hewbert: http://signalboxes.net/
+#   - XFCE Port by p0ng: http://www.p0ng.com.br
+#
+#   Credit theme: hewbert. 
+#
+#   I just repaired a few images that were corrupted during 
+#   conversion Pekwm -> XFCE. Also created the animation when you 
+#   press the buttons.
+
+button_offset=0
+button_spacing=0
+title_horizontal_offset=0
+title_vertical_offset_active=1
+title_vertical_offset_inactive=1
+title_shadow_active=true
+title_shadow_inactive=false
+show_app_icon=false
+active_text_color=#333333
+active_text_shadow_color=#e5e5e5
+inactive_text_color=#8c8c8c
+
+# Enabled 'composite' to see this effect
+shadow_opacity=90
+shadow_delta_height=-10
+shadow_delta_width=-10
+shadow_delta_x=-10
+shadow_delta_y=-10
